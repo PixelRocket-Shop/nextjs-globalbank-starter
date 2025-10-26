@@ -9,9 +9,28 @@ This template is created using Tailwind CSS version 4 and Next.js 14+, offering 
 > [Click here to view demo](https://next-globalbank-full.vercel.app/)
 
 > **Important:** You are currently viewing only the starter template, which includes only the homepage. The full template is available for free to users who are registered on my website and signed up to my mailing list.
-> [Click here to download the full template](https://www.pixelrocket.store/free-templates/next-templates/globalbank-tailwind-nextjs-website-template)
+> [Click here to download the full template](https://www.pixelrocket.store/free-templates/nextjs-templates/global-bank-nextjs-website-template)
 
-![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/globalbank.png)
+## Template Versions
+
+This template is available in multiple frameworks:
+
+| Framework | Link |
+|-----------|------|
+| HTML | [Global Bank HTML Template](https://pixelrocket.store/free-templates/html-templates/global-bank-tailwind-html-website-template) |
+| React | [Global Bank React Template](https://pixelrocket.store/free-templates/react-templates/global-bank-react-website-template) |
+| Next.js | [Global Bank Next.js Template](https://pixelrocket.store/free-templates/nextjs-templates/global-bank-nextjs-website-template) |
+
+## More Free Templates
+
+| Template | Preview | HTML | React | Next.js |
+|----------|---------|------|-------|---------|
+| Easy Tax | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/easytax.png" width="150">](https://next-easytax-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/easy-tax-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/easy-tax-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/easy-tax-nextjs-website-template) |
+| Frequencii | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/frequencii.png" width="150">](https://next-frequencii-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/frequenci-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/frequencii-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/frequencii-tailwind-nextjs-website-template) |
+| Fauna & Flora | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/florafauna.png" width="150">](https://next-faunaflora-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/fauna-flora-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/fauna-flora-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/fauna-flora-tailwind-nextjs-website-template) |
+| Four Points | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/fourpoints.png" width="150">](https://next-fourpoints-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/four-points-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/four-points-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/four-points-tailwind-nextjs-website-template) |
+
+[![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/globalbank.png)](https://next-globalbank-full.vercel.app/)
 
 ## Pages
 - Homepage
