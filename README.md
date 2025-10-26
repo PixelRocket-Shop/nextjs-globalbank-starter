@@ -6,7 +6,7 @@ Global Bank is an advanced Next.js template designed to provide secure and innov
 
 This template is created using Tailwind CSS version 4 and Next.js 14+, offering a modern, component-based architecture with App Router support for excellent performance and developer experience.
 
-> [Click here to view demo](https://next-globalbank-full.vercel.app/)
+> [Click here to view demo](https://nextjs-globalbank-full.vercel.app/)
 
 > **Important:** You are currently viewing only the starter template, which includes only the homepage. The full template is available for free to users who are registered on my website and signed up to my mailing list.
 > [Click here to download the full template](https://www.pixelrocket.store/free-templates/nextjs-templates/global-bank-nextjs-website-template)
@@ -30,7 +30,7 @@ This template is available in multiple frameworks:
 | Fauna & Flora | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/florafauna.png" width="150">](https://next-faunaflora-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/fauna-flora-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/fauna-flora-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/fauna-flora-tailwind-nextjs-website-template) |
 | Four Points | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/fourpoints.png" width="150">](https://next-fourpoints-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/four-points-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/four-points-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/four-points-tailwind-nextjs-website-template) |
 
-[![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/globalbank.png)](https://next-globalbank-full.vercel.app/)
+[![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/globalbank.png)](https://nextjs-globalbank-full.vercel.app/)
 
 ## Pages
 - Homepage
